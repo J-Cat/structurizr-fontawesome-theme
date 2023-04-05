@@ -7,11 +7,11 @@ This package includes a Structurizr theme for all the FontAwesome Free icons, ba
 
 In order to use this package, simply reference it as follows in your Structurizr workspace.dsl:
 
-> theme[s] https://raw.githubusercontent.com/J-Cat/structurizr-fontawesome-theme/blob/master/theme[-embedded].json
+> theme[s] https://raw.githubusercontent.com/J-Cat/structurizr-fontawesome-theme/master/theme[-embedded].json
 
 Eg:
 
-> theme https://raw.githubusercontent.com/J-Cat/structurizr-fontawesome-theme/blob/master/theme.json
+> theme https://raw.githubusercontent.com/J-Cat/structurizr-fontawesome-theme/master/theme.json
 
 
 ## Updating theme.json/theme-embedded.json

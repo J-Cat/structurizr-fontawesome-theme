@@ -5,7 +5,7 @@ const themeEmbedded = JSON.parse(readFileSync('./theme-embedded.json'));
 theme.elements = [];
 themeEmbedded.elements = [];
 
-const baseUrl = process.env.BASE_URL || 'https://raw.githubusercontent.com/J-Cat/structurizr-fontawesome-theme/blob/master/fontawesome'
+const baseUrl = process.env.BASE_URL || 'https://raw.githubusercontent.com/J-Cat/structurizr-fontawesome-theme/master/fontawesome'
 
 const folders = readdirSync('./fontawesome', { withFileTypes: true });
 for (const folder of folders) {
