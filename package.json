@@ -1,0 +1,11 @@
+{
+  "name": "structurizr-fontawesome-theme",
+  "version": "1.0.0",
+  "description": "Structurizr Theme that includes icons for each of the FontAwesome Free icons, based upon the FontAwesome Icons Set (https://github.com/FortAwesome/Font-Awesome).",
+  "scripts": {
+    "extract-icons": "node extract-icons-to-theme.js"
+  },
+  "keywords": ["Structurizr", "Theme", "FontAwesome"],
+  "author": "J-Cat",
+  "license": "CC-BY-NC-4.0"
+}
